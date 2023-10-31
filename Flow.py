@@ -24,8 +24,8 @@ def contagem_pulso(pin):
 
 
 # Configurar a rede Wi-Fi
-wifi_ssid = "Oi_D417"
-wifi_password = "fuTUF26p"
+wifi_ssid = ""
+wifi_password = ""
 led = machine.Pin(2, machine.Pin.OUT)
 
 # Crie um objeto WLAN
